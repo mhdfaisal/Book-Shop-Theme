@@ -1,7 +1,7 @@
 $primary-color:#3292a6;
 
 
-
+/*------- Styling the navbar ---------*/
 nav{
     box-shadow: 2px 2px 5px $primary-color;
     background: #fff;
@@ -11,4 +11,12 @@ nav{
         font-size: 1.4rem;
         padding-right:2px;
     }
+}
+/*--------- Styling the showcase section --------*/
+#showcase{
+    background: linear-gradient(rgba(50, 146, 166, 0.7),rgba(50, 146, 166, 0.7)) ,url('../img/mountains.jpg');
+    background-size: cover;
+    background-position: top left;
+    background-attachment: fixed;
+    min-height:600px;
 }
