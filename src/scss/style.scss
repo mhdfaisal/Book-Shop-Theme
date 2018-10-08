@@ -1,0 +1,14 @@
+$primary-color:#3292a6;
+
+
+
+nav{
+    box-shadow: 2px 2px 5px $primary-color;
+    background: #fff;
+    opacity:0.9;
+
+    .nav-item{
+        font-size: 1.4rem;
+        padding-right:2px;
+    }
+}

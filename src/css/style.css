@@ -1,0 +1,7 @@
+nav {
+  box-shadow: 2px 2px 5px #3292a6;
+  background: #fff;
+  opacity: 0.9; }
+  nav .nav-item {
+    font-size: 1.4rem;
+    padding-right: 2px; }
