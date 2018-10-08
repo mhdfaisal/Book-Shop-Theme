@@ -14,3 +14,7 @@ nav {
   background-position: top left;
   background-attachment: fixed;
   min-height: 600px; }
+
+/*----------- Styling the boxes --------*/
+.card-outline-primary {
+  border: 1px solid #3292a6; }

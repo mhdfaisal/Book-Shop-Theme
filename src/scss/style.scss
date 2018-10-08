@@ -1,6 +1,5 @@
 $primary-color:#3292a6;
 
-
 /*------- Styling the navbar ---------*/
 nav{
     box-shadow: 2px 2px 5px $primary-color;
@@ -19,4 +18,9 @@ nav{
     background-position: top left;
     background-attachment: fixed;
     min-height:600px;
+}
+
+/*----------- Styling the boxes --------*/
+.card-outline-primary{
+    border:1px solid $primary-color;
 }
