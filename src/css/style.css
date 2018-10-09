@@ -29,3 +29,12 @@ nav {
 
 #authors .fa {
   font-size: 25px; }
+
+/*-------- Media Queries --------*/
+@media only screen and (max-width: 768px) {
+  #authors .card {
+    margin-bottom: 85px; } }
+
+@media only screen and (max-width: 576px) {
+  #authors .card {
+    margin-bottom: 85px; } }
